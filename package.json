@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-cart",
+  "version": "1.0.0",
+  "description": "Simple E-Commerce Shopping Cart with CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
